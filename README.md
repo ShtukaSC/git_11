@@ -1,7 +1,6 @@
 # git_11
 ![image](https://github.com/user-attachments/assets/756f2437-652f-47a8-99bf-9a58d9a8f824)
 
-![image](https://github.com/user-attachments/assets/5a35d1f6-3e9b-48e0-aea0-aef2e04fc443)
 Узкие места:
 1.Использование DISTINCT - затраты
 2. Отсутствие явных соединений - лучше с JOIN
